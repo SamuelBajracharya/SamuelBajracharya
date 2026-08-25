@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Samuel and I'm a Frontend developer from Nepal.</h2>
+<h2 align="left">Frontend Developer | React.js, Next.js, TypeScript & Tailwind CSS | Building responsive, user-focused web applications</h2>
 
 ###
 
